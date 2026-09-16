@@ -1,5 +1,7 @@
 # chrome-web-mcp
 
+> [kuraneko1/chrome-web-mcp](https://github.com/kuraneko1/chrome-web-mcp) からのフォークです。
+
 [English README](README.md)
 
 > **対応OS: Linuxのみ。** WindowsとmacOSはサポート対象外です。Dockerを
