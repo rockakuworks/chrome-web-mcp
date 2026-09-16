@@ -1,5 +1,7 @@
 # chrome-web-mcp
 
+> Forked from [kuraneko1/chrome-web-mcp](https://github.com/kuraneko1/chrome-web-mcp).
+
 [日本語版 README](README.jp.md)
 
 > **Supported OS: Linux only.** Windows and macOS are not supported. Using
